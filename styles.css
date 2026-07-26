@@ -248,6 +248,16 @@ a {
   color: var(--ampd);
 }
 
+.section--story .story-punch {
+  margin: -0.35rem 0 1.25rem;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: clamp(1.35rem, 3.5vw, 1.85rem);
+  line-height: 1.15;
+  letter-spacing: 0.02em;
+  color: var(--paper);
+}
+
 .section--story .wrap--narrow > p {
   color: rgba(246, 243, 237, 0.88);
 }
