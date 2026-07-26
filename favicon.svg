@@ -1,0 +1,38 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="2" fill="#0c0b09"/>
+  <!-- body -->
+  <path fill="#c9a227" d="
+    M5 18.5
+    L5 14.2
+    C5 13.2 5.7 12.4 6.7 12.2
+    L9.2 11.6
+    L11 8.2
+    C11.3 7.6 11.9 7.2 12.6 7.2
+    H20.8
+    C21.5 7.2 22.1 7.6 22.4 8.2
+    L23.8 11.5
+    L25.5 12
+    C26.4 12.2 27 13 27 13.9
+    V18.5
+    H24.2
+    C23.9 17.2 22.7 16.2 21.2 16.2
+    C19.7 16.2 18.5 17.2 18.2 18.5
+    H13.8
+    C13.5 17.2 12.3 16.2 10.8 16.2
+    C9.3 16.2 8.1 17.2 7.8 18.5
+    H5
+    Z
+  "/>
+  <!-- windshield cut -->
+  <path fill="#0c0b09" d="M12.2 8.6 H21 L22.2 11.4 H11.2 Z"/>
+  <!-- grille slots -->
+  <rect x="13.2" y="12.2" width="0.9" height="2.6" rx="0.2" fill="#0c0b09"/>
+  <rect x="14.8" y="12.2" width="0.9" height="2.6" rx="0.2" fill="#0c0b09"/>
+  <rect x="16.4" y="12.2" width="0.9" height="2.6" rx="0.2" fill="#0c0b09"/>
+  <rect x="18" y="12.2" width="0.9" height="2.6" rx="0.2" fill="#0c0b09"/>
+  <!-- wheels -->
+  <circle cx="10.8" cy="19.2" r="3.1" fill="#c9a227"/>
+  <circle cx="10.8" cy="19.2" r="1.5" fill="#0c0b09"/>
+  <circle cx="21.2" cy="19.2" r="3.1" fill="#c9a227"/>
+  <circle cx="21.2" cy="19.2" r="1.5" fill="#0c0b09"/>
+</svg>
