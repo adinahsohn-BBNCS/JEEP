@@ -612,6 +612,17 @@ a.mfr::after {
   color: rgba(246, 243, 237, 0.35);
 }
 
+.footer__credit a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+.footer__credit a:hover,
+.footer__credit a:focus-visible {
+  color: rgba(246, 243, 237, 0.7);
+}
+
 /* —— Sticky contact (mobile) —— */
 .sticky-contact {
   display: none;
