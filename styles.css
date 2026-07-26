@@ -501,6 +501,10 @@ a.mfr::after {
   color: var(--ampd);
 }
 
+.section--facts .facts-closer + .facts-closer {
+  margin-top: 0.65rem;
+}
+
 /* —— Gallery —— */
 .section--gallery {
   background: linear-gradient(180deg, transparent, rgba(201, 162, 39, 0.06));
