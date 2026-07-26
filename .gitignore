@@ -5,3 +5,4 @@ Desktop.ini
 .env
 .env.*
 !.env.example
+pics/incoming/
