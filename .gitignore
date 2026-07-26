@@ -6,3 +6,4 @@ Desktop.ini
 .env.*
 !.env.example
 pics/incoming/
+pics/approve/
