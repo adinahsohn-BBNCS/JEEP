@@ -178,7 +178,7 @@ a {
   font-size: clamp(1.35rem, 3.5vw, 1.75rem);
   letter-spacing: 0.06em;
   text-transform: uppercase;
-  color: var(--ampd);
+  color: var(--ampd) !important;
 }
 
 .hero__lede-price::after {
