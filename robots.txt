@@ -1,7 +1,5 @@
 User-agent: *
 Allow: /
-Disallow: /approve.html
-Disallow: /pics/approve/
 
 User-agent: facebookexternalhit
 Allow: /
