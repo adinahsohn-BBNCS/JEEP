@@ -205,13 +205,34 @@ Your pro set covers exterior, trail use, engine, cabin, armor, and some undercar
 
 Please treat this as a **documented custom rock crawler**, not a lightly modified stock Rubicon.
 
-1. Preserve **Amp'd** branding and the marketing site URL **https://goanywherejeep.com/** in the published ad (hero/media link and/or description).
-2. Prefer keeping the seller-provided description voice above; polish for clarity if needed, but do not strip the MoTech / Currie / EVO / Atlas selling points or reframe as a stock JK.
-3. Headline emphasis should lead with Amp'd + MoTech LT1 + Currie 60/70 + 40s, not generic “lifted Rubicon.”
-4. Inquiries: **Adi@bbncs.com** and **951-251-5656**.
-5. Receipts available for MoTech powertrain, EVO Double Throwdown, and Currie Extreme 60 / RockJock 70.
-6. Photos by @shootingupthestreets — credit optional.
-7. Seller can provide additional undercarriage, odometer, receipt, and flaw photos on request.
+**Primary request:** Make the Fourbie listing match **https://goanywherejeep.com/** as closely as your platform allows — same story, same selling points, same photo narrative, same Amp'd branding. The seller built that site specifically for this sale; the Featured ad should feel like that page, not a generic stock-Rubicon rewrite.
+
+1. Use https://goanywherejeep.com/ as the creative brief. Mirror its structure: Amp'd brand signal → “Built to crawl…” energy → powertrain / chassis / trail gear → gallery → inquire.
+2. Lead photo / hero treatment should echo the site hero (`5-DSC02056` / trail shots `19-rocks`, `20-trail`, `21-carcrush`) — capability first, then details.
+3. Preserve **Amp'd** branding and a prominent link to **https://goanywherejeep.com/** on the published ad.
+4. Prefer keeping the seller-provided description voice; polish for Fourbie format if needed, but do not strip MoTech / Currie / EVO / Atlas points or reframe as a stock JK.
+5. Headline emphasis: Amp'd + MoTech LT1 + Currie 60/70 + 40s — not generic “lifted Rubicon.”
+6. Specs to populate on your side (form only collected description + photos):
+
+| Field | Value |
+|--------|--------|
+| Year / Make / Model / Trim | 2014 Jeep Wrangler Unlimited Rubicon |
+| VIN | 1C4BJWFG2EL178933 |
+| Odometer | 40,734 |
+| Price | $100,000 |
+| Location | Temecula, CA |
+| Title | Clean |
+| Seller | Private party |
+| Exterior / Interior | Amp'd yellow / tan, color-matched hardtop |
+| Engine | MoTech LT1 6.2L V8 (~496 hp / 496 lb-ft tuned) |
+| Transmission | GM 8L90 8-speed automatic |
+| Drivetrain | 4×4 — Atlas twin-stick |
+| Condition | No known issues |
+| Contact | Adi@bbncs.com · 951-251-5656 |
+
+7. Receipts available for MoTech powertrain, EVO Double Throwdown, and Currie Extreme 60 / RockJock 70.
+8. Photos by @shootingupthestreets — credit optional.
+9. Seller can provide additional undercarriage, odometer, receipt, and flaw photos on request.
 
 ---
 
@@ -230,33 +251,45 @@ Please treat this as a **documented custom rock crawler**, not a lightly modifie
 ### Email template to Fourbie
 
 **To:** info@fourbieexchange.com *(or your assigned Featured listing specialist)*  
-**Subject:** Featured listing — 2014 Amp'd Rubicon — please keep site copy & goanywherejeep.com
+**Subject:** Featured listing — match goanywherejeep.com for 2014 Amp'd Rubicon
 
 ```
 Hi Fourbie team,
 
-I just submitted / am submitting a Featured listing for my 2014 Jeep Wrangler Unlimited Rubicon (Amp'd) in Temecula, CA — $100,000.
+I submitted a Featured listing for my 2014 Jeep Wrangler Unlimited Rubicon (Amp'd) in Temecula, CA — $100,000. The form only let me add the description and photos, so here are the remaining details and my main request:
 
-I already built a full marketing site for this Jeep and would like the Featured ad to incorporate that branding and copy rather than a generic rewrite:
+Please make the Fourbie listing match my marketing site as closely as your platform allows:
 
 https://goanywherejeep.com/
 
-Attached / pasted below is my listing brief with:
-- Specs and contact
-- Preferred title and full description (please keep this voice)
-- Photo upload order
-- Notes for the listing specialist
+That site is the source of truth for branding, story, specs, and photo narrative. I want the Featured ad to feel like that page — Amp'd-first, MoTech LT1 / Currie / EVO rock crawler — not a generic stock Rubicon rewrite. Please keep a prominent link to the site on the listing.
 
-Key points for buyers:
+Specs to populate:
+- Year/Make/Model/Trim: 2014 Jeep Wrangler Unlimited Rubicon
+- VIN: 1C4BJWFG2EL178933
+- Odometer: 40,734
+- Price: $100,000
+- Location: Temecula, CA
+- Title: Clean
+- Seller: Private party
+- Exterior/Interior: Amp'd yellow / tan, color-matched hardtop
+- Engine: MoTech LT1 6.2L V8 (~496 hp / 496 lb-ft tuned)
+- Transmission: GM 8L90 8-speed automatic
+- Drivetrain: 4x4 — Atlas twin-stick
+- Condition: No known issues
+- Contact: Adi@bbncs.com / 951-251-5656
+
+Key selling points:
 - Factory Amp'd yellow / tan
-- MoTech LT1 V8 Premium Kit + GM 8L90 (~496 hp tuned), installed at ~30k miles
+- MoTech LT1 V8 Premium Kit + GM 8L90, installed at ~30k miles (~10k on swap)
 - Currie Extreme 60 / RockJock 70, EVO Double Throwdown, Atlas, ARB lockers, 40" Mickey Thompsons
-- 40,734 miles, clean title, VIN 1C4BJWFG2EL178933
-- No known issues
 - Everything on the Jeep is included
-- Inquiries: Adi@bbncs.com / 951-251-5656
+- Receipts available for MoTech, EVO, and Currie builds
 
-Please keep the Amp'd branding and a prominent link to https://goanywherejeep.com/ on the published listing.
+Preferred title:
+2014 Jeep Wrangler Unlimited Rubicon Amp'd — MoTech LT1 V8, Currie 60/70, EVO Double Throwdown, 40s — 40,734 mi — Temecula, CA
+
+Happy to send the full listing brief or any extra photos you need.
 
 Thank you,
 Adi
@@ -273,8 +306,8 @@ Attach this file (`fourbie-listing-brief.md`) or paste sections 1–5 into the e
 - [x] Insert VIN — 1C4BJWFG2EL178933 (confirm on vehicle)
 - [x] Insert exact odometer — 40,734
 - [x] List known imperfections — none known / no known issues
-- [ ] Confirm contact still Adi@bbncs.com / 951-251-5656
-- [ ] Choose Featured ($119) at https://www.fourbieexchange.com/sell
-- [ ] Paste description + upload `pics/` in order
-- [ ] Email specialist with this brief + site URL
+- [x] Confirm contact still Adi@bbncs.com / 951-251-5656
+- [x] Choose Featured ($119) at https://www.fourbieexchange.com/sell
+- [x] Paste description + upload `pics/` (form only offered those fields)
+- [ ] Email specialist with this brief + request to match goanywherejeep.com
 - [ ] (Recommended) Add odometer cluster photo, more undercarriage, receipts, flaw shots, short video
