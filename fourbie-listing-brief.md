@@ -22,7 +22,7 @@ Use this file to submit the Featured listing and to brief Fourbie’s listing sp
 | Exterior color | Amp'd (factory yellow) |
 | Interior | Tan |
 | Hardtop | Color-matched hardtop |
-| Odometer | **~40,000 original miles — replace with exact reading before submit** |
+| Odometer | 40,734 |
 | Engine | Chevrolet Performance LT1 6.2L Gen V V8 (MoTech Premium Kit; MoTech tuned ~496 hp / 496 lb-ft) |
 | Fuel type | Gasoline |
 | Transmission | GM 8L90 8-speed automatic |
@@ -30,7 +30,7 @@ Use this file to submit the Featured listing and to brief Fourbie’s listing sp
 | Axle gears | 5.38 |
 | Title status | Clean |
 | Seller type | Private party |
-| VIN / Chassis # | **TBD — insert VIN before submit** |
+| VIN / Chassis # | 1C4BJWFG2EL178933 |
 | Price | $100,000 |
 | Location | Temecula, CA |
 | Phone | 951-251-5656 |
@@ -39,8 +39,8 @@ Use this file to submit the Featured listing and to brief Fourbie’s listing sp
 
 ### Gaps to fill before checkout
 
-- **VIN:** _______________________________
-- **Exact odometer:** ____________________
+- **VIN:** 1C4BJWFG2EL178933 _(entered as 17-character Jeep WMI `1C4…` from your `1CBJ…` — confirm on dash/title)_
+- **Exact odometer:** 40,734
 - **Known imperfections / disclosures:** _______________________________  
   _(paint chips, trail scars, interior wear, mechanical notes, warning lights, etc. — list honestly; Fourbie recommends showing flaws)_
 
@@ -50,11 +50,11 @@ Contact confirmed as phone + Adi@bbncs.com unless you change it above.
 
 ## 2. Suggested listing title
 
-**2014 Jeep Wrangler Unlimited Rubicon Amp'd — MoTech LT1 V8, Currie 60/70, EVO Double Throwdown, 40s — ~40k mi — Temecula, CA**
+**2014 Jeep Wrangler Unlimited Rubicon Amp'd — MoTech LT1 V8, Currie 60/70, EVO Double Throwdown, 40s — 40,734 mi — Temecula, CA**
 
 Short card blurb (homepage-style):
 
-> ~40K mi, MoTech LT1 V8 + 8L90, Currie 60/70, EVO Double Throwdown, Atlas, 40" Mickey Thompsons, Amp'd yellow / tan
+> 40,734 mi, MoTech LT1 V8 + 8L90, Currie 60/70, EVO Double Throwdown, Atlas, 40" Mickey Thompsons, Amp'd yellow / tan
 
 ---
 
@@ -64,7 +64,7 @@ Short card blurb (homepage-style):
 
 ---
 
-This 2014 Jeep Wrangler Unlimited Rubicon 4×4 is offered by a private party in Temecula, California with approximately 40,000 original miles and an asking price of $100,000. Finished in rare factory Amp'd yellow over tan with a color-matched hardtop, this four-door Rubicon was built as a serious rock crawler — not a sticker build — and has been sitting more than it's crawling since.
+This 2014 Jeep Wrangler Unlimited Rubicon 4×4 (VIN 1C4BJWFG2EL178933) is offered by a private party in Temecula, California with 40,734 miles and an asking price of $100,000. Finished in rare factory Amp'd yellow over tan with a color-matched hardtop, this four-door Rubicon was built as a serious rock crawler — not a sticker build — and has been sitting more than it's crawling since.
 
 At about 30,000 miles, MoTech Premium Conversions in Las Vegas installed a Chevrolet Performance LT1 6.2L Gen V V8 Premium Kit paired to a GM 8L90 eight-speed automatic. Factory-rated 455 hp / 455 lb-ft and MoTech tuned to approximately 496 hp / 496 lb-ft, with roughly 10,000 miles on the swap. The rest of the package matches the power: Currie Extreme 60 front and RockJock 70 full-float rear axles, 5.38 gears, ARB Air Lockers front and rear, EVO / Off Road Evolution Double Throwdown long-travel coilover and bypass (King), Currie AntiRock sway bars, Advance Adapters Atlas twin-stick transfer case, PSC hydraulic steering assist, and 40" Mickey Thompson mud terrains.
 
@@ -73,7 +73,7 @@ Full gallery, build story, and manufacturer links: **https://goanywherejeep.com/
 - **Not a sticker build.** Factory Trail Rated, then built for the rocks — axle, suspension, armor, and trail gear chosen for real use.
 - **Rare OEM finish.** Factory Amp'd yellow over tan with a color-matched hardtop.
 - **Professional MoTech LT1 + 8L90.** Installed at ~30k miles; ~10k miles on the powertrain swap.
-- **Low-mile chassis.** ~40,000 original miles — sitting more than crawling.
+- **Low-mile chassis.** 40,734 miles — sitting more than crawling.
 - **Serious hardware.** Currie Extreme 60 / RockJock 70, EVO Double Throwdown with King, Atlas twin-stick, ARB lockers, 40s.
 - **Trail kit included.** What you see on the Jeep goes with the sale — lights, winch, armor, spare carrier gear, compressors, audio, and the rest of the trail equipment.
 - **Clean title.** Receipts available on request for MoTech powertrain, EVO Double Throwdown suspension, and Currie Extreme 60 / RockJock 70 axle builds.
@@ -217,10 +217,10 @@ Please treat this as a **documented custom rock crawler**, not a lightly modifie
 
 ## 6. How to submit the Featured listing
 
-1. Fill **VIN**, **exact odometer**, and **flaw notes** in section 1 of this file.
+1. Confirm **VIN** on dash/title matches `1C4BJWFG2EL178933`, and add **flaw notes** in section 1 if any.
 2. Open [Fourbie Sell / Classified Options](https://www.fourbieexchange.com/sell) → **Choose Featured** ($119 one-time).
 3. Create account / sign in and complete checkout.
-4. Enter vehicle fields from the specs table (section 1).
+4. Enter vehicle fields from the specs table (section 1) — odometer **40,734**, VIN **1C4BJWFG2EL178933**.
 5. Paste the ad description (section 3) into the listing body.
 6. Upload the 28 full-res photos from `pics/` in the order in section 4.
 7. Set contact to Adi@bbncs.com / 951-251-5656.
@@ -251,7 +251,7 @@ Key points for buyers:
 - Factory Amp'd yellow / tan
 - MoTech LT1 V8 Premium Kit + GM 8L90 (~496 hp tuned), installed at ~30k miles
 - Currie Extreme 60 / RockJock 70, EVO Double Throwdown, Atlas, ARB lockers, 40" Mickey Thompsons
-- ~40,000 original miles, clean title
+- 40,734 miles, clean title, VIN 1C4BJWFG2EL178933
 - Everything on the Jeep is included
 - Inquiries: Adi@bbncs.com / 951-251-5656
 
@@ -269,11 +269,11 @@ Attach this file (`fourbie-listing-brief.md`) or paste sections 1–5 into the e
 
 ## 7. Quick checklist
 
-- [ ] Insert VIN
-- [ ] Insert exact odometer (and update description “approximately 40,000” if exact differs)
+- [x] Insert VIN — 1C4BJWFG2EL178933 (confirm on vehicle)
+- [x] Insert exact odometer — 40,734
 - [ ] List known imperfections
 - [ ] Confirm contact still Adi@bbncs.com / 951-251-5656
 - [ ] Choose Featured ($119) at https://www.fourbieexchange.com/sell
 - [ ] Paste description + upload `pics/` in order
 - [ ] Email specialist with this brief + site URL
-- [ ] (Recommended) Add odometer, more undercarriage, receipts, flaw shots, short video
+- [ ] (Recommended) Add odometer cluster photo, more undercarriage, receipts, flaw shots, short video
