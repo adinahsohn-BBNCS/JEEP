@@ -41,8 +41,7 @@ Use this file to submit the Featured listing and to brief Fourbie’s listing sp
 
 - **VIN:** 1C4BJWFG2EL178933 _(entered as 17-character Jeep WMI `1C4…` from your `1CBJ…` — confirm on dash/title)_
 - **Exact odometer:** 40,734
-- **Known imperfections / disclosures:** _______________________________  
-  _(paint chips, trail scars, interior wear, mechanical notes, warning lights, etc. — list honestly; Fourbie recommends showing flaws)_
+- **Known imperfections / disclosures:** None known. Seller reports no known issues.
 
 Contact confirmed as phone + Adi@bbncs.com unless you change it above.
 
@@ -137,6 +136,7 @@ Everything on the Jeep goes with the sale — lights, winch, armor, spare carrie
 ### Ownership and records
 
 - Clean title
+- No known issues
 - Receipts on request: MoTech LT1 V8 Premium Kit & 8-speed install; EVO / Off Road Evolution Double Throwdown; Currie Extreme 60 / RockJock 70
 - Private party sale — Temecula, CA
 
@@ -217,7 +217,7 @@ Please treat this as a **documented custom rock crawler**, not a lightly modifie
 
 ## 6. How to submit the Featured listing
 
-1. Confirm **VIN** on dash/title matches `1C4BJWFG2EL178933`, and add **flaw notes** in section 1 if any.
+1. Confirm **VIN** on dash/title matches `1C4BJWFG2EL178933`. Condition disclosure: **no known issues**.
 2. Open [Fourbie Sell / Classified Options](https://www.fourbieexchange.com/sell) → **Choose Featured** ($119 one-time).
 3. Create account / sign in and complete checkout.
 4. Enter vehicle fields from the specs table (section 1) — odometer **40,734**, VIN **1C4BJWFG2EL178933**.
@@ -252,6 +252,7 @@ Key points for buyers:
 - MoTech LT1 V8 Premium Kit + GM 8L90 (~496 hp tuned), installed at ~30k miles
 - Currie Extreme 60 / RockJock 70, EVO Double Throwdown, Atlas, ARB lockers, 40" Mickey Thompsons
 - 40,734 miles, clean title, VIN 1C4BJWFG2EL178933
+- No known issues
 - Everything on the Jeep is included
 - Inquiries: Adi@bbncs.com / 951-251-5656
 
@@ -271,7 +272,7 @@ Attach this file (`fourbie-listing-brief.md`) or paste sections 1–5 into the e
 
 - [x] Insert VIN — 1C4BJWFG2EL178933 (confirm on vehicle)
 - [x] Insert exact odometer — 40,734
-- [ ] List known imperfections
+- [x] List known imperfections — none known / no known issues
 - [ ] Confirm contact still Adi@bbncs.com / 951-251-5656
 - [ ] Choose Featured ($119) at https://www.fourbieexchange.com/sell
 - [ ] Paste description + upload `pics/` in order
