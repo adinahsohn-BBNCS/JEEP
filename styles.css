@@ -630,6 +630,44 @@ a.mfr::after {
   color: var(--ampd) !important;
 }
 
+.fourbie-badge {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.55rem;
+  margin-top: 1.75rem;
+  text-decoration: none;
+  color: inherit;
+}
+
+.fourbie-badge__label {
+  font-family: var(--font-display);
+  font-size: 0.95rem;
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: rgba(246, 243, 237, 0.55);
+}
+
+.fourbie-badge__logo {
+  display: block;
+  width: min(12.5rem, 55vw);
+  height: auto;
+  border-radius: 0.2rem;
+  transition: opacity 0.25s var(--ease), transform 0.25s var(--ease);
+}
+
+.fourbie-badge:hover .fourbie-badge__logo,
+.fourbie-badge:focus-visible .fourbie-badge__logo {
+  opacity: 0.88;
+  transform: translateY(-1px);
+}
+
+.fourbie-badge:focus-visible {
+  outline: 2px solid var(--ampd);
+  outline-offset: 6px;
+}
+
 .fineprint {
   margin-top: 1.25rem !important;
   font-size: 0.8125rem;
