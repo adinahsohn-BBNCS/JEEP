@@ -75,7 +75,7 @@ Full gallery, build story, and manufacturer links: **https://goanywherejeep.com/
 - **Low-mile chassis.** 40,734 miles — sitting more than crawling.
 - **Serious hardware.** Currie Extreme 60 / RockJock 70, EVO Double Throwdown with King, Atlas twin-stick, ARB lockers, 40s.
 - **Trail kit included.** What you see on the Jeep goes with the sale — lights, winch, armor, spare carrier gear, compressors, audio, and the rest of the trail equipment.
-- **Clean title.** Receipts available on request for MoTech powertrain, EVO Double Throwdown suspension, and Currie Extreme 60 / RockJock 70 axle builds.
+- **Clean title. No known issues.** Receipts available on request for MoTech powertrain, EVO Double Throwdown suspension, and Currie Extreme 60 / RockJock 70 axle builds.
 - **Drive it.** Hit the rocks, fill the tank, drive it home — dialed on-road and off.
 
 ### Powertrain
