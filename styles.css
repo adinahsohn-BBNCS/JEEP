@@ -175,8 +175,9 @@ a {
   margin-bottom: 0.15rem;
   font-family: var(--font-display);
   font-weight: 600;
-  font-size: clamp(1.35rem, 3.5vw, 1.75rem);
-  letter-spacing: 0.06em;
+  font-size: clamp(1.2rem, 3.2vw, 1.55rem);
+  line-height: 1.15;
+  letter-spacing: 0.04em;
   text-transform: uppercase;
   color: var(--ampd) !important;
 }
@@ -620,14 +621,24 @@ a.mfr::after {
   color: rgba(246, 243, 237, 0.82);
 }
 
+.section--inquire .inquire-offer,
 .section--inquire .inquire-price {
   margin: 0 0 0.75rem !important;
   font-family: var(--font-display) !important;
   font-weight: 600 !important;
-  font-size: clamp(1.5rem, 4vw, 2rem) !important;
-  letter-spacing: 0.06em !important;
   text-transform: uppercase !important;
   color: var(--ampd) !important;
+}
+
+.section--inquire .inquire-offer {
+  font-size: clamp(1.25rem, 3.5vw, 1.75rem) !important;
+  line-height: 1.15 !important;
+  letter-spacing: 0.04em !important;
+}
+
+.section--inquire .inquire-price {
+  font-size: clamp(1.5rem, 4vw, 2rem) !important;
+  letter-spacing: 0.06em !important;
 }
 
 .fourbie-badge {
